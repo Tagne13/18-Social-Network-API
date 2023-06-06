@@ -21,7 +21,6 @@
   ## [Installation](#table-of-contents)
 
 
-
   ## [Usage](#table-of-contents)
 
   
