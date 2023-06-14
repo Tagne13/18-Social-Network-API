@@ -26,7 +26,7 @@
 
   Start the server in the command line with `node index.js`. Then access the API routes in Insomnia or a like-testing client. Watch the below demonstration video to see the GET, POST, PUT, and DELETE routes being tested.   
 
-  [Video Demonstration]
+  [Video Demonstration](https://drive.google.com/file/d/1bcY2ktWU5ytpbXKCrakvsVI_I4kYDJTe/view)
 
   ![Screenshot](images/Screenshot.png)
 
