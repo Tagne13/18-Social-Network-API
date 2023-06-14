@@ -9,7 +9,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [MIT](https://choosealicense.com/licenses/MIT)
+  * [License](https://choosealicense.com/licenses/MIT)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -61,7 +61,7 @@
 
   ## [Contributing](#table-of-contents)
 
-  
+  N/A  
 
   ## [Tests](#table-of-contents)
 
